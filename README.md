@@ -1,18 +1,27 @@
-# React + Vite
+# Proyecto React - Carrito de Compras 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web desarrollada con **React** y **Vite**, realizada por **Emanuel Ocampo Tobon** para la **Ficha 3256538**. 
 
-Currently, two official plugins are available:
+## 🚀 Demo
+Puedes ver la aplicación funcionando aquí:
+[https://ocampotobonemanuel5-svg.github.io/react/](https://ocampotobonemanuel5-svg.github.io/react/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologías Utilizadas
+* **React**: Biblioteca principal para la interfaz.
+* **Vite**: Herramienta de construcción rápida.
+* **GitHub Pages**: Despliegue y hosting de la aplicación.
+* **Git**: Control de versiones.
 
-## React Compiler
+## 📦 Características
+* Uso de **Props** para pasar información entre componentes.
+* Listado dinámico de productos (Artículos).
+* Diseño responsivo y moderno.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🔧 Instalación y Ejecución Local
+1. Clona este repositorio.
+2. Ejecuta `npm install` para instalar las dependencias.
+3. Ejecuta `npm run dev` para iniciar el servidor de desarrollo.
+4. Para publicar cambios, usa `npm run deploy`.
 
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+© 2026 Emanuel Ocampo Tobon - Todos los derechos reservados.
